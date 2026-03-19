@@ -1,0 +1,11 @@
+# C/C++ build artifacts
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.lib
+*.exp
+
+# VS Code settings
+.vscode/
